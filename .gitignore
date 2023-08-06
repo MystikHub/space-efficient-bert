@@ -1,0 +1,8 @@
+.vscode/
+build/
+
+data/bookcorpus/
+data/wikipedia/
+data/*.dat
+
+logs/

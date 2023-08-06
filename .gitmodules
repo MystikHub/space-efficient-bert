@@ -1,0 +1,3 @@
+[submodule "data/bert-tensorflow2"]
+	path = data/bert_tensorflow2
+	url = https://github.com/MystikHub/bert-tensorflow2.git
